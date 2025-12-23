@@ -5,7 +5,7 @@
   <!-- Goku Ultra Instinct GIF -->
   <img src="https://mylivewallpapers.com/wp-content/uploads/Anime/Goku/goku-ultra-instinct-live-wallpaper-thumb.jpg" width="400" alt="Goku Ultra Instinct"/>
   
-  ### 💫 Full Stack Developer | Anime Enthusiast | Open Source Contributor
+  ### 💫 FRONT Developer 
   
   *"The power comes in response to a need, not a desire."* - Goku
   
