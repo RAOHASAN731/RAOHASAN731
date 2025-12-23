@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Goku Ultra Instinct GIF -->
-  <img src="https://media.giphy.com/media/3o752dgnUZABwwjzlS/giphy.gif" width="400" alt="Goku Ultra Instinct"/>
+  <img src="https://mylivewallpapers.com/wp-content/uploads/Anime/Goku/goku-ultra-instinct-live-wallpaper-thumb.jpg" width="400" alt="Goku Ultra Instinct"/>
   
   ### 💫 Full Stack Developer | Anime Enthusiast | Open Source Contributor
   
