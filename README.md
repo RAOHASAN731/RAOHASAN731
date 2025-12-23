@@ -3,7 +3,6 @@
 <div align="center">
   
   <!-- Goku Ultra Instinct GIF -->
-  <img src="https://mylivewallpapers.com/wp-content/uploads/Anime/Goku/goku-ultra-instinct-live-wallpaper-thumb.jpg" width="400" alt="Goku Ultra Instinct"/>
   
   ### 💫 FRONT Developer 
   
@@ -31,6 +30,5 @@
   
   ### ⚡ "I am the hope of the universe!" - Goku
   
-  <img src="https://media.giphy.com/media/jZYzel7GD7yLK/giphy.gif" width="250" alt="Goku Power Up"/>
 
 </div>
