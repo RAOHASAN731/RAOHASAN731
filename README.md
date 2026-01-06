@@ -1,4 +1,3 @@
-
 # Hi there, I'm Hassan Khalid 👋
 
 ## 🚀 Frontend Developer
@@ -48,9 +47,17 @@ Advanced lead management systems designed for call centers, optimizing customer 
 
 ## 📊 GitHub Stats
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAOHASAN731&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAOHASAN731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAOHASAN731&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAOHASAN731&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAOHASAN731&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -58,6 +65,7 @@ Advanced lead management systems designed for call centers, optimizing customer 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raohasan731@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itxraohxn7866/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923180765767)
 
 ---
 
