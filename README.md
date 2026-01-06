@@ -65,6 +65,14 @@ Advanced lead management systems designed for call centers, optimizing customer 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RAOHASAN731&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
