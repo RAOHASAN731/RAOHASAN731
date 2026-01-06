@@ -13,6 +13,16 @@ FAST NUCES, Islamabad | 2025
 
 ---
 
+## 📜 Certifications
+
+- **Create a Lead Generation Messenger Chatbot using Chatfuel** - Coursera | Jul 2025
+- **Search Engine Optimization (SEO) with Squarespace** - Coursera | Jul 2025
+- **Google Ads for Beginners** - Coursera | Jul 2025
+- **Work with Components in Figma** - Coursera | Jul 2025
+- **Create Charts and Dashboard using Google Sheets** - Coursera | Oct 2021
+
+---
+
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,6 +32,10 @@ FAST NUCES, Islamabad | 2025
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![API](https://img.shields.io/badge/API_Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API_Testing-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
@@ -72,6 +86,7 @@ Advanced lead management systems designed for call centers, optimizing customer 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raohasan731@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itxraohxn7866/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923180765767)
+[![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/chhassan)
 
 ---
 
