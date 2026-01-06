@@ -19,6 +19,7 @@ FAST NUCES, Islamabad | 2025
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![API](https://img.shields.io/badge/API_Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -36,6 +37,9 @@ Building scalable and modern web applications with React and Tailwind CSS, focus
 
 ### 🏥 Optics Management System POS
 A comprehensive Point of Sale system designed for optics stores, streamlining inventory management and sales tracking.
+
+### 📱 OptiFlow Mobile App
+A React Native mobile application for optics management, similar to Mobi Optics, providing seamless optical store operations on the go.
 
 ### 👥 HRM Employee Management System
 **SAAS-based Multi-Tenant System** developed at **Veeivs**  
