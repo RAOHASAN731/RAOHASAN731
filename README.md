@@ -59,9 +59,13 @@ A React Native mobile application for optics management, similar to Mobi Optics,
 **SAAS-based Multi-Tenant System** developed at **Veeivs**  
 A scalable HR management platform enabling multiple organizations to manage their workforce efficiently.
 
-### 📞 CRM Lead Management Systems
-**AUTO-CRM & MED-ALERT** developed at **Veeivs**  
-Advanced lead management systems designed for call centers, optimizing customer relationship management and medical alerts.
+### 📞 AUTO-CRM
+**Call Center Lead Management System** developed at **Veeivs**  
+Advanced CRM platform designed for automotive call centers, optimizing lead tracking, customer relationship management, and sales pipeline automation.
+
+### 🚨 MED-ALERT CRM
+**Medical Alert Lead Management System** developed at **Veeivs**  
+Specialized CRM solution for medical alert services, streamlining patient lead management, emergency response tracking, and customer communication.
 
 ### 📊 FECRM - Google Sheets Lead Management
 **Frontend CRM System** developed at **Veeivs**  
