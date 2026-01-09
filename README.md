@@ -63,6 +63,10 @@ A scalable HR management platform enabling multiple organizations to manage thei
 **AUTO-CRM & MED-ALERT** developed at **Veeivs**  
 Advanced lead management systems designed for call centers, optimizing customer relationship management and medical alerts.
 
+### 📊 FECRM - Google Sheets Lead Management
+**Frontend CRM System** developed at **Veeivs**  
+A lightweight CRM solution that integrates with Google Sheets API to collect and manage organizational leads data. Features real-time data synchronization, easy lead tracking, and collaborative access for teams.
+
 ---
 
 ## 🏆 GitHub Trophies
