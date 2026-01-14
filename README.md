@@ -55,6 +55,10 @@ A comprehensive Point of Sale system designed for optics stores, streamlining in
 ### 📱 OptiFlow Mobile App
 A React Native mobile application for optics management, similar to Mobi Optics, providing seamless optical store operations on the go.
 
+### 🔧 Repair Master
+**Multi-Service Mobile Platform** built with **React Native**  
+A comprehensive mobile application connecting users with professional repair and maintenance services including plumbers, carpenters, electricians, and more. Built with React Native frontend, Node.js backend, and MongoDB database for seamless service booking and provider management.
+
 ### 👥 HRM Employee Management System
 **SAAS-based Multi-Tenant System** developed at **Veeivs**  
 A scalable HR management platform enabling multiple organizations to manage their workforce efficiently.
