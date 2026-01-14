@@ -67,6 +67,10 @@ Advanced CRM platform designed for automotive call centers, optimizing lead trac
 **Medical Alert Lead Management System** developed at **Veeivs**  
 Specialized CRM solution for medical alert services, streamlining patient lead management, emergency response tracking, and customer communication.
 
+### 💊 MEDICARE CARE LEADS CRM
+**Medicare Care Lead Management System** developed at **Veeivs**  
+Comprehensive CRM platform tailored for Medicare care services, enabling efficient management of senior care leads, enrollment tracking, and personalized customer engagement for healthcare providers.
+
 ### 📊 FECRM - Google Sheets Lead Management
 **Frontend CRM System** developed at **Veeivs**  
 A lightweight CRM solution that integrates with Google Sheets API to collect and manage organizational leads data. Features real-time data synchronization, easy lead tracking, and collaborative access for teams.
