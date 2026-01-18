@@ -3,9 +3,6 @@
 ## 🚀 Frontend Developer
 
 
-
-
-
 I'm a passionate Frontend Developer specializing in building beautiful, responsive, and user-friendly web applications. I love turning ideas into reality through clean code and modern design.
 
 ---
@@ -61,7 +58,7 @@ A React Native mobile application for optics management, similar to Mobi Optics,
 
 ### 🔧 Repair Master
 **Multi-Service Mobile Platform** built with **React Native**  
-A comprehensive mobile application connecting users with professional repair and maintenance services including plumbers, carpenters, electricians, and more. Built with React Native frontend, Node.js backend, and MongoDB database for seamless service booking and provider management.
+A comprehensive mobile application connecting users with professional repair and maintenance services including plumbers, carpenters, electricians, and more. Built with React Native frontend, Node.js backend, and MongoDB database for seamless service booking and provider management.For clients , customers and admins.
 
 ### 👥 HRM Employee Management System
 **SAAS-based Multi-Tenant System** developed at **Veeivs**  
