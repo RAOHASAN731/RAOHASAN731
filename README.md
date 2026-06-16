@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan Khalid 👋
 
-<h3 align="center">🚀 Frontend & MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAOHASAN731&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend & MERN Stack Developer** specializing in building modern, responsive, and scalable web applications. I enjoy creating seamless user experiences with React, React Native, and modern frontend technologies while also developing robust backend solutions using Node.js, Express.js, and MongoDB.
+I'm a passionate **MERN Stack Developer** specializing in building modern, responsive, and scalable web applications. I enjoy creating seamless user experiences with React, React Native, and modern frontend technologies while also developing robust backend solutions using Node.js, Express.js, and MongoDB.
 
 * 🔭 Currently working on scalable MERN Stack applications
 * 🌱 Learning advanced Next.js, TypeScript, and system design
